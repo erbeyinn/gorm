@@ -36,7 +36,7 @@ var (
 
 		{Name: "Howard Hills",  License: "XYZ789"},
 
-		{Name: "Craig Colbin",  License: "DEF333"},
+		{Name: "Craig Colbin",  License: "DEF333"}, 
 	}
 
 	cars =[]Car{
